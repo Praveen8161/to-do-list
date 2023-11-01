@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import { useState } from 'react'
 import './App.css'
-import TodoAdd from './components/todoAdd'
+import TodoAdd from './components/TodoAdd'
 import FilterTodo from './components/FilterTodo'
 import TodoCard from './components/TodoCard'
 
