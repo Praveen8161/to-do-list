@@ -27,5 +27,5 @@
 ## Run Command 
     `npm run dev`
 
-## Live Website
-    -[Live Site](https://dreamy-swan-12548a.netlify.app/)
+    
+-[Live Site](https://dreamy-swan-12548a.netlify.app/)
