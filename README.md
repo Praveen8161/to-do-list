@@ -20,7 +20,7 @@
     - Contains name, description, status and buttons
     - Status will be updated to the original data upon selection
     - Edit button will be get a original data from the card
-    - And update it to the Input field in the header and also change the 
+    - And update it to the Input field in the header and also changed the 
     - 'Add To-do' button in the header to 'Save'
     - The Delete button will delete the card
 
